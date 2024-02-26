@@ -1,6 +1,7 @@
-def main():
-    from controller.control import LibrarySystem
+from controller.control import LibrarySystem
 
+def main():
+    
     library_system = LibrarySystem
 
     print("\nLibrary Management System")
