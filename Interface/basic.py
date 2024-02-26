@@ -1,5 +1,5 @@
 def main():
-    from control import LibrarySystem
+    from controller.control import LibrarySystem
 
     library_system = LibrarySystem
 
