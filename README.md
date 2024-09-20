@@ -18,9 +18,12 @@ The Library Management System is a Python-based application built using FastAPI 
 
    ```bash
    git clone https://github.com/Shr1ramN/LibraryManagement.git
+2. Run the server:
+   ```bash
+   python main.py
 
 ## Usage
 
-Visit http://localhost:8000/docs to access the Swagger UI for interacting with the API.
+Visit http://localhost:8000/docs in your system to access the Swagger UI for interacting with the API.
 
 Use the provided endpoints to manage books, customers, and borrowing/returning books.
