@@ -18,9 +18,9 @@ The Library Management System is a Python-based application built using FastAPI 
 
    ```bash
    git clone https://github.com/Shr1ramN/LibraryManagement.git
-2. Run the server:
+2. Run the server: (Choosing the interface you need)
    ```bash
-   python main.py
+   python filename.py
 
 ## Usage
 
